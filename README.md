@@ -19,3 +19,18 @@ sozyhi，一个前端菜鸟。
 6. React
 7. Vue
 8. 小程序
+
+## 目前学习中
+
+JavaScript，简单示范：
+
+* 一行代码
+
+` console.log("HelloWorld") `
+
+* 多行代码
+
+```
+let a = "HelloWorld";
+console.log(a);
+```
